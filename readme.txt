@@ -1,3 +1,4 @@
+add merge strategy
 creating a new branch is queck and simple.
 study create branch
 study with github
