@@ -1,3 +1,4 @@
+creating a new branch is queck AND simple.
 study create branch
 study with github
 test diff
